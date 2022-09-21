@@ -264,6 +264,8 @@ footer {
     position: relative;
     display: flex;
     color: white;
+    font-size: 0.9rem;
+    font-weight: 300;
 }
 
 .m-pride {
@@ -273,9 +275,8 @@ footer {
 }
 
 .menu-img {
-    width: 145px;
-    height: 145px;
-    background-color: white;
+    width: 150px;
+    height: 150px;
 }
 
 
