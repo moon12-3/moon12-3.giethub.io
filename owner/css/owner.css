@@ -234,8 +234,7 @@ footer {
 
 .etc-img {
     width: 230px;
-    height: 22.22vh;
-    background-color: #d9d9d9;
+    height: auto;
 }
 
 .o-text {

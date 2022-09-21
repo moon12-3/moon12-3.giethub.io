@@ -199,13 +199,15 @@ a {
 }
 
 #second {
-    
+    display:flex;
+    align-items: center;
+    height: 100vh;
     position: relative;
 }
 
 .s-content {
-    position: relative;
     height: 100vh;
+    position: relative;
     
 }
 
@@ -216,16 +218,23 @@ a {
 
 .about-text {
     color: #fff;
-    position:absolute;
-    top:19.9vh;
-    left:17.96vw;
+    margin-left:17.96vw;
 }
 
 .main-text {
     font-family: 'Times New Roman';
     font-weight: 700;
-    font-size: 120px;
+    font-size: 5rem;
     color:#fff;
+    margin-bottom: 5vh;
+}
+
+.sub-main-text {
+    font-family: 'Apple SD Gothic Neo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 4.62vh;
 }
 
 .mar {
@@ -279,11 +288,13 @@ a {
     margin-top:4.25vh;
 }
 
+
+
 .gray-box {
     width: 67.06%;
-    height: 38.88vh;
+    height: a;
     margin:auto;
-    background-color: #d9d9d9;
+    /*background:url("../img/mask group2.png") no-repeat;*/
     margin-bottom: 20px;
 }
 
