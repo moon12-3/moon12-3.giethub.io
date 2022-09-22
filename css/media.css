@@ -78,7 +78,7 @@ function fnImgPop(url){
     OpenWindow.document.write("<style>body{margin:0px;}</style><img src='"+url+"' width='"+win_width+"'>");
    }
 
-/* @media screen and (max-width:1920px) {
+@media screen and (max-width:1920px) {
     #nav-item1 {
         width: auto;
     }
@@ -91,4 +91,36 @@ function fnImgPop(url){
     #nav-item4 {
         width: auto;
     }
-} */
+
+    #top-logo-img {
+        width: auto;
+    }
+}
+
+
+@media screen and (max-width:1536px) {
+    #nav-item1 {
+        width: 58.35px;
+        height: auto;
+    }
+    
+    #nav-item2 {
+        width: 73.08px;
+        height: auto;
+    }
+    
+    #nav-item3 {
+        width: 72.59px;
+        height: auto;
+    }
+    
+    #nav-item4 {
+        width: 92.296px;
+        height: auto;
+    }
+
+    #top-logo-img {
+        width: 138.168px;
+        height: auto;
+    }
+}

@@ -259,3 +259,16 @@ footer {
         width: 210px;
     }
 }
+
+@media screen and (max-width:1920px) {
+    .etc-img {
+        width: auto;
+    }
+}
+
+@media screen and (max-width:1536px) {
+    .etc-img {
+        width: 230px;
+        height: auto;
+    }
+}

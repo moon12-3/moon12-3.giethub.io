@@ -291,3 +291,46 @@ footer {
     bottom: 20px;
     right: 16.2vw;
 }
+
+#c1 {
+    width:400px;
+}
+
+#c2 {
+    width:317.6px;
+}
+
+#c3 {
+    width: 417px;
+}
+
+@media screen and (max-width:1920px) {
+    .menu-img {
+        width: auto;
+    }
+    #c1 {
+        width:auto;
+    }
+    
+    #c2 {
+        width:auto;
+    }
+    
+    #c3 {
+        width: auto;
+    }
+}
+
+@media screen and (max-width:1535px) {
+    #c1 {
+        width:400px;
+    }
+    
+    #c2 {
+        width:317.6px;
+    }
+    
+    #c3 {
+        width: 417px;
+    }
+}
