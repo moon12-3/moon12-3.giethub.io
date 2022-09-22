@@ -388,3 +388,21 @@ iframe{position:absolute; left:0; top:0; width: 67.06vw; height: 50.92vh;}
         width: 300px;
     }
 }
+
+@media screen and (max-width:843px) {
+    .web-title {
+        top:12.68vh;
+    }
+    .web-btn {
+        top:80vh;
+    }
+}
+
+@media screen and (max-width:547px) {
+    .web-title {
+        top:2.68vh;
+    }
+    .web-btn {
+        top:85vh;
+    }
+}
