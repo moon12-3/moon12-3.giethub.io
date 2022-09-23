@@ -156,7 +156,7 @@ nav>ul li:nth-child(4) {
 footer {
     position: relative;
     height:260px;
-    color: #929292;
+    color: #565656;
     width: 67.06%;
     margin: auto;
     /* background-color: #434040; */
@@ -200,12 +200,12 @@ footer {
     font-size: 6.5rem;
     line-height: 138px;
     margin-bottom: 70px;
-    color: #929292;
+    color: #565656;
 }
 
 .s-section {
     margin-bottom: 50px;
-    color: #929292;
+    color: #565656;
 }
 
 .s-text1 {
@@ -221,7 +221,7 @@ footer {
     font-weight: 300;
     font-size: 1rem;
     line-height: 30px;
-    width:205px;
+    width:13rem;
 }
 
 .r-text {
@@ -254,7 +254,7 @@ footer {
 }
 
 #gr {
-    color :#929292;
+    color: #565656;
 }
 
 .sns-img {

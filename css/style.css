@@ -154,7 +154,7 @@ nav>ul li:first-child {
 footer {
     position: relative;
     height:260px;
-    color: #929292;
+    color: #565656;
     width: 67.06%;
     margin: auto;
     /* background-color: #434040; */
@@ -277,7 +277,7 @@ a {
 }
 
 .sub-text {
-    color:#929292;
+    color: #565656;
     font-family: 'Apple SD Gothic Neo L';
     font-size: 1rem;
     line-height: 30px;

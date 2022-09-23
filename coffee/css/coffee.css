@@ -135,7 +135,7 @@ nav>ul li:nth-child(2) {
 footer {
     position: relative;
     height:260px;
-    color: #929292;
+    color: #565656;
     width: 67.06%;
     margin: auto;
     /* background-color: #434040; */
@@ -198,7 +198,7 @@ footer {
     font-family: 'Apple SD Gothic Neo UL';
     width:515px;
     line-height: 4.5vh;
-    color: #929292;
+    color: #565656;
 }
 
 .s-img {
@@ -313,7 +313,7 @@ footer {
     }
     .s-text {
         width:610px;
-        font-size: 1.2rem;
+        /* font-size: 1.2rem; */
     }
 }
 
@@ -332,6 +332,6 @@ footer {
 
     .s-text {
         width: 515px;
-        font-size: 1rem;
+        /* font-size: 1rem; */
     }
 }
