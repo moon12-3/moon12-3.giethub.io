@@ -128,7 +128,7 @@ nav>ul li:nth-child(3) {
 
 footer {
     position: relative;
-    height:310px;
+    height:260px;
     color: #565656;
     width: 67.06%;
     margin: auto;
@@ -248,7 +248,7 @@ footer {
     font-style: normal;
     font-weight: 300;
     font-size: 1rem;
-    line-height: 30px;
+    line-height: 2rem;
     margin-right: 50px;
 }
 
