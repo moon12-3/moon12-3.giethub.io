@@ -315,6 +315,11 @@ footer {
         width:610px;
         /* font-size: 1.2rem; */
     }
+
+    .menu-img {
+        width: 200px;
+        height: 200px;
+    }
 }
 
 @media screen and (max-width:1536px) {
@@ -333,5 +338,9 @@ footer {
     .s-text {
         width: 515px;
         /* font-size: 1rem; */
+    }
+    .menu-img {
+        width: 150px;
+        height: 150px;
     }
 }
