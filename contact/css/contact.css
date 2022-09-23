@@ -167,13 +167,15 @@ footer {
 }
 
 .f-title {
-    font-weight: 500;
+    font-family: 'Inter';
+    font-style: normal;
     font-size: 1rem;
 }
 
 .f-text{
-    font-size:0.6rem;
-    font-weight:300px;
+    font-family: 'Apple SD Gothic Neo UL';
+    font-style: normal;
+    font-size:0.8rem;
 }
 
 #second {
@@ -209,7 +211,6 @@ footer {
 .s-text1 {
     font-family: 'Apple SD Gothic Neo';
     font-style: normal;
-    font-weight: 700;
     font-size: 1.2rem;
     line-height: 38px;
 }

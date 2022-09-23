@@ -146,12 +146,18 @@ footer {
 }
 
 .f-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
     font-weight: 500;
     font-size: 1rem;
 }
 
 .f-text{
-    font-size:0.6rem;
+    font-family: 'Apple SD Gothic Neo UL';
+    font-style: normal;
+    font-weight: 300;
+    font-size:0.8rem;
     font-weight:300px;
 }
 
@@ -182,8 +188,6 @@ footer {
 
 .s-title {
     font-family: 'Times New Roman';
-    font-style: normal;
-    font-weight: 400;
     font-size: 6.5rem;
     left:19.16vw;
     margin-bottom: 4vh;
@@ -191,8 +195,9 @@ footer {
 }
 
 .s-text {
+    font-family: 'Apple SD Gothic Neo UL';
     width:515px;
-    line-height: 27px;
+    line-height: 4.5vh;
     color: #929292;
 }
 
@@ -211,23 +216,9 @@ footer {
     height: 1400px;
 }
 
-.t-section2 {
-    margin: auto;
-}
-
-.t-content2 {
-    margin-top:24.1vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 60vh;
-}
-
 .big-content {
     width: 67.08%;
     margin: auto;
-    display: flex;
-    justify-content: space-between;
 }
 
 .t-section {
@@ -237,8 +228,8 @@ footer {
 }
 
 .t-title {
-    /* font-family: 'Inter'; */
-    font-weight:100;
+    font-family: 'Apple SD Gothic Neo T';
+    width: 160px;
     font-size: 3rem;
     color: white;
 }
@@ -248,9 +239,7 @@ footer {
     bottom:7vh;
     right:16.2vw;
     color: #fff;
-    font-family: 'AppleSDGothicNeoUL';
-    font-style: normal;
-    font-weight: 300;
+    font-family: 'Apple SD Gothic Neo UL';
     font-size: 1rem;
     line-height: 30px;
     text-align: right;
@@ -261,6 +250,9 @@ footer {
 }
 
 .menu-text {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 350;
     position: relative;
     display: flex;
     color: white;
@@ -319,6 +311,10 @@ footer {
     #c3 {
         width: auto;
     }
+    .s-text {
+        width:610px;
+        font-size: 1.2rem;
+    }
 }
 
 @media screen and (max-width:1536px) {
@@ -332,5 +328,10 @@ footer {
     
     #c3 {
         width: 417px;
+    }
+
+    .s-text {
+        width: 515px;
+        font-size: 1rem;
     }
 }

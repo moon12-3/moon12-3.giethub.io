@@ -118,18 +118,19 @@ nav>ul li:nth-child(3) {
 }
 
 #footer {
+    width: 100%;
     position: absolute;
     top:6.25vh;
     /* left:20.36vw; */
     display: flex;
-    gap: 15.87vw;
+    justify-content: space-between;
 }
 
 footer {
     position: relative;
     height:260px;
     color: #929292;
-    width: 60%;
+    width: 67.06%;
     margin: auto;
     /* background-color: #434040; */
 }
@@ -139,12 +140,18 @@ footer {
 }
 
 .f-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
     font-weight: 500;
     font-size: 1rem;
 }
 
 .f-text{
-    font-size:0.6rem;
+    font-family: 'Apple SD Gothic Neo UL';
+    font-style: normal;
+    font-weight: 300;
+    font-size:0.8rem;
     font-weight:300px;
 }
 
@@ -171,6 +178,7 @@ footer {
 }
 
 .s-inst {
+    font-family: 'Apple SD Gothic Neo UL';
     margin-top:5.27vh;
     color: #929292;
     line-height: 30px;
@@ -239,7 +247,7 @@ footer {
 
 .o-text {
     color:#929292;
-    font-family: 'Apple SD Gothic Neo';
+    font-family: 'Apple SD Gothic Neo UL';
     font-style: normal;
     font-weight: 300;
     font-size: 1rem;

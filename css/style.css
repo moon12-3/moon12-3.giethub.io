@@ -1,4 +1,4 @@
-/* html{overflow: hidden;} */
+
 
 *{
     /* outline: solid 1px red; */
@@ -160,23 +160,23 @@ footer {
     /* background-color: #434040; */
 }
 
-.f-background {
-    width:100%;
-    background-color: #f5f5f5;
-    height:260px;
-}
-
 .section {
     display: block;
 }
 
 .f-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
     font-weight: 500;
     font-size: 1rem;
 }
 
 .f-text{
-    font-size:0.6rem;
+    font-family: 'Apple SD Gothic Neo UL';
+    font-style: normal;
+    font-weight: 300;
+    font-size:0.8rem;
     font-weight:300px;
 }
 
@@ -230,9 +230,7 @@ a {
 }
 
 .sub-main-text {
-    font-family: 'Apple SD Gothic Neo';
-    font-style: normal;
-    font-weight: 500;
+    font-family: 'Apple SD Gothic Neo UL';
     font-size: 1rem;
     line-height: 4.62vh;
 }
@@ -263,7 +261,7 @@ a {
     font-family: 'Times New Roman';
     font-style: normal;
     font-weight: 700;
-    font-size: 2rem;
+    font-size: 2.3rem;
     color:#393939;
 }
 
@@ -280,8 +278,7 @@ a {
 
 .sub-text {
     color:#929292;
-    font-family: 'Apple SD Gothic Neo';
-    font-weight: 300;
+    font-family: 'Apple SD Gothic Neo L';
     font-size: 1rem;
     line-height: 30px;
     margin-top:4.25vh;
@@ -306,13 +303,12 @@ a {
     width: 67.06%;
     height: 80%;
     margin:auto;
+    color: #393939;
 }
 
 .way {
-    font-family: 'Apple SD Gothic Neo';
-font-style: normal;
-font-weight: 700;
-font-size: 50px;
+    font-family: 'Apple SD Gothic Neo EB';
+    font-size: 50px;
 }
 
 .mab{
@@ -324,15 +320,13 @@ iframe{position:absolute; left:0; top:0; width: 67.06vw; height: 50.92vh;}
 }
 
 .m-title {
-    font-family: 'Apple SD Gothic Neo';
-    font-style: normal;
-    font-weight: 600;
+    font-family: 'Apple SD Gothic Neo EB';
     font-size: 1rem;
     color:#393939;
 }
 
 .m-text {
-    font-family: 'Apple SD Gothic Neo';
+    font-family: 'Apple SD Gothic Neo UL';
     font-style: normal;
     font-weight: 300;
     font-size: 1rem;
