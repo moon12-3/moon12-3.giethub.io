@@ -201,7 +201,6 @@ footer {
 .owner-img {
     margin-top: 6.85vh;
     width: 250px;
-    height: 30.55vh;
     background-color: #d9d9d9;
 }
 
@@ -270,11 +269,19 @@ footer {
     .etc-img {
         width: auto;
     }
+
+    .owner-img {
+        width: auto;
+    }
 }
 
 @media screen and (max-width:1536px) {
     .etc-img {
         width: 230px;
         height: auto;
+    }
+
+    .owner-img {
+        width: 250px;
     }
 }
