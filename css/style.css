@@ -194,7 +194,7 @@ a {
 
 .slogan-text {
     position:absolute;
-    top:94.5px;
+    top:140px;
     left:17.96vw;
 }
 
@@ -306,6 +306,10 @@ a {
     color: #393939;
 }
 
+.f-slogan {
+    width:300px;
+}
+
 .way {
     font-family: 'Apple SD Gothic Neo EB';
     font-size: 50px;
@@ -368,6 +372,7 @@ iframe{position:absolute; left:0; top:0; width: 67.06vw; height: 50.92vh;}
     font-family: 'Apple SD Gothic Neo';
     font-weight: 500;
     color: white;
+    font-size: 1rem;
 }
 
 .web-btn:hover {
